@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Penelope
+- 👋 Hi, I’m Tholakele
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Analytics and Data Science projects
